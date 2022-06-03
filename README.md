@@ -5,4 +5,4 @@ Please do not use this code without proper citation.
 
 For any further query, feel free to contact: nazifactg10@gmail.com
 
-*** ***INSTRUCTION to run the code*** ***
+*** ***INSTRUCTIONS to run the code*** ***
