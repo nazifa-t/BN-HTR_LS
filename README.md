@@ -13,4 +13,4 @@ For any further query, feel free to contact: nazifactg10@gmail.com
 
 *STEP-3* : Run each section one after one.(Each execution results in one output only.)
 
-*STEP-4* : Set "plot_image = TRUE" if you want to plot all images during execution.
+*STEP-4* : Set "plot_image = True" if you want to plot all images during execution.
