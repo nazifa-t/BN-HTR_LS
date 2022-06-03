@@ -22,5 +22,4 @@ For any further query, feel free to contact: nazifactg10@gmail.com
 
 Dataset
 
-
-(Rahman, Md Ataur; Paul, Mitu; Tabassum, Nazifa; Pal, Riya; Das, Bipon; Tasnim, Raisa; Gony, Osman; Noor, Fatin; Jubaer, Sheikh Mohammad; Chowdhury, Mehanaz; Akter, Yeasmin Ara; Islam, Mohammad Khairul (2021), “BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)”, Mendeley Data, V1, doi: 10.17632/743k6dm543.1)
+            (Rahman, Md Ataur; Paul, Mitu; Tabassum, Nazifa; Pal, Riya; Das, Bipon; Tasnim, Raisa; Gony, Osman; Noor, Fatin; Jubaer, Sheikh Mohammad; Chowdhury, Mehanaz; Akter, Yeasmin Ara; Islam, Mohammad Khairul (2021), “BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)”, Mendeley Data, V1, doi: 10.17632/743k6dm543.1)
